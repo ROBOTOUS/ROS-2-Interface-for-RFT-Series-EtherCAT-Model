@@ -1,0 +1,21 @@
+[0.008s] Invoking command in '/home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface -- -j1 -l1
+[0.033s] Invoked command in '/home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface -- -j1 -l1
+[0.040s] Invoking command in '/home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface
+[0.049s] -- Install configuration: ""
+[0.050s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/lib/rft64_6a01_ros2_interface/interface.py
+[0.051s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/ament_index/resource_index/package_run_dependencies/rft64_6a01_ros2_interface
+[0.051s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/ament_index/resource_index/parent_prefix_path/rft64_6a01_ros2_interface
+[0.052s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/environment/ament_prefix_path.sh
+[0.052s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/environment/ament_prefix_path.dsv
+[0.053s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/environment/path.sh
+[0.054s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/environment/path.dsv
+[0.054s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/local_setup.bash
+[0.055s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/local_setup.sh
+[0.055s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/local_setup.zsh
+[0.055s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/local_setup.dsv
+[0.056s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/package.dsv
+[0.056s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/ament_index/resource_index/packages/rft64_6a01_ros2_interface
+[0.056s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/cmake/rft64_6a01_ros2_interfaceConfig.cmake
+[0.056s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/cmake/rft64_6a01_ros2_interfaceConfig-version.cmake
+[0.057s] -- Up-to-date: /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/install/rft64_6a01_ros2_interface/share/rft64_6a01_ros2_interface/package.xml
+[0.060s] Invoked command in '/home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface

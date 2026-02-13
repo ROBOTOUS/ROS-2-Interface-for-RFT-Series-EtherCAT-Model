@@ -1,0 +1,4 @@
+CMake Error: The current CMakeCache.txt directory /home/user2/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface/CMakeCache.txt is different than the directory /home/user1/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/user1/catkin_ws/src/rft64_6a01_ros2_interface" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+make: *** [Makefile:222: cmake_check_build_system] Error 1

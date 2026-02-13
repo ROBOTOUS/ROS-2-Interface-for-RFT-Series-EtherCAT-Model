@@ -1,0 +1,2 @@
+Invoking command in '/home/user2/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user2/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface -- -j1 -l1
+Invoked command in '/home/user2/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/user2/catkin_ws/src/rft64_6a01_ros2_interface/build/rft64_6a01_ros2_interface -- -j1 -l1

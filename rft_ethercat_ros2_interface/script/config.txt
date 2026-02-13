@@ -1,0 +1,6 @@
+# [EtherCAT Configuration]
+# Network Interface Name (Check with 'ifconfig' command)
+Interface: enp0s3
+
+# Output Rate: 1000, 500, 333, 250, 200, 100 (Hz)
+OutputRate_Hz: 500
