@@ -1,7 +1,7 @@
 # ROS 2 Interface Guide for RFT Series (Ethercat Model)
 
 
-This guide provides instructions for interfacing the **RFT sensor**, which uses **Ethercat communication**, within a **ROS 2** environment.
+This guide provides instructions for interfacing the **RFT sensor**, which uses **EtherCAT communication**, within a **ROS 2** environment.
 
 Steps 2 through 4 require a total of **three terminals**.
 Each step must be executed in a **separate terminal**.
