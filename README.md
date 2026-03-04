@@ -121,7 +121,7 @@ sudo su
 Navigate to the workspace and source the ROS 2 environment
 
 ```bash
-cd /home/{username}/{your_workspace}
+cd ~/{your_workspace}
 source /opt/ros/<your_ros2_distro>/setup.bash
 source ./install/setup.bash
 ```
